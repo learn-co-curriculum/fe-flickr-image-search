@@ -46,9 +46,9 @@ Read more about Flickr API here: [http://www.flickr.com/services/api/request.res
 
 ## BONUS:
 
-Add the jQuery fancybox plugin to make images modal (light-box) when you click on them.
+Add the jQuery light plugin to make images modal (light-box) when you click on them.
 
-Directions at: [http://fancyapps.com/fancybox/](http://fancyapps.com/fancybox/)
+Directions at: [http://lokeshdhakar.com/projects/lightbox2/](http://lokeshdhakar.com/projects/lightbox2/)
 
 ## Resources
 * [Flickr API](https://www.flickr.com/services/api/) - [constructing an image URI](https://www.flickr.com/services/api/misc.urls.html)
